@@ -1,4 +1,4 @@
-baseURL = 'http://sea2sky.org/'
+baseURL = 'https://github.io/strongwinderic/Sea2Sky'
 languageCode = 'en-us'
 title = 'Sea2Sky'
 theme = 'ananke'
