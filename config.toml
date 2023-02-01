@@ -1,0 +1,5 @@
+baseURL = 'http://sea2sky.org/'
+languageCode = 'en-us'
+title = 'Sea2Sky'
+theme = 'ananke'
+menu = ['about', 'blog']
